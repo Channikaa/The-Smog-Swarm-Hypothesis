@@ -3,7 +3,6 @@ The Smog &amp; Swarm Hypothesis, a part of Advanced Data Science Class Group Ass
 - Objective
 To investigate the temporal correlation between PM2.5 levels and Mosquito-Borne Disease
 (MBD) incidence in Cambodia to validate if pollution suppresses or promotes vector activity.
-
 - The Scientific Hypothesis
 
   - H0 (Null): PM2.5 levels have no statistically significant impact on mosquito-borne
